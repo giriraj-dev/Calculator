@@ -28,11 +28,14 @@ body{
 
 .blank{
     width: 100%;
+    text-align: right;
+    overflow: hidden;
+    white-space:nowrap;
     height:150px;
     border:none; 
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    font-size: 3rem;
+    font-size: 2rem;
     padding: 1rem;
     color: #fff;
     background: rgb(2, 2, 2);
